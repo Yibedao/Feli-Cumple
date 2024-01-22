@@ -39,44 +39,44 @@
 .ballon1:nth-child(1){
     background: rgb(193, 8, 8);
     animation-duration: 3.0s;
-    Left:53px;
+    Left:58px;
 }
 .ballon1:nth-child(2){
     background: rgb(237, 237, 48);
     animation-duration: 4.1s;
-    Left:37px;
+    Left:42px;
 }
 .ballon1:nth-child(3){
     background: rgb(235, 230, 230);
     animation-duration: 5.2s;
-    Left:27px;
+    Left:32px;
     color:black;
 }
 .ballon1:nth-child(4){
     background: rgb(42, 211, 211);
     animation-duration: 6.3s;
-    Left:14px;
+    Left:19px;
 }
 .ballon1:nth-child(5){
     background: rgb(44, 44, 161);
     animation-duration: 4.4s;
-    Left:4px;
+    Left:9px;
 }
 
 .ballon2:nth-child(1){
     background: rgb(193, 8, 8);
     animation-duration: 3.0s;
-    left:61px;
+    left:54px;
 }
 .ballon2:nth-child(2){
     background: rgb(237, 237, 48);
     animation-duration: 3.1s;
-    left:39px;
+    left:34px;
 }
 .ballon2:nth-child(3){
     background:rgb(235, 230, 230);
     animation-duration: 5.2s;
-    left:22px;
+    left:17px;
     color:black;
 }
 .ballon2:nth-child(4){
@@ -86,12 +86,12 @@
 .ballon2:nth-child(5){
     background: rgb(44, 44, 161);
     animation-duration: 4.4s;
-    left:-13px;
+    left:-8px;
 }
 .ballon2:nth-child(6){
     background: rgb(159, 10, 154);
     animation-duration: 4.4s;
-    left:-27px;
+    left:-22px;
 }
 
 .ballon3:nth-child(1){
@@ -107,7 +107,7 @@
 .ballon3:nth-child(3){
     background: rgb(235, 230, 230);
     animation-duration: 5.2s;
-    left:22px;
+    left:17px;
     color:black;
 }
 .confeti{
