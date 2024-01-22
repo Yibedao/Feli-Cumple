@@ -11,6 +11,8 @@
 }
 
 body {
+  display: flex;
+  align-items: flex-end;
   justify-content: center;
   min-height: 100vh;
   background-color: var(--dark-color);
@@ -18,16 +20,6 @@ body {
   perspective: 1000px;
 }
 
-#lyrics {
-  font-size: 28px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: white;
-  position: absolute;
-  margin-bottom: 20%;
-  z-index: 1;
-  font-weight: bold;
-  letter-spacing: 4px;
-}
 @media only screen and (max-width: 600px) {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
   #lyrics {
@@ -38,7 +30,7 @@ body {
 
 }
 .titulo {
-  margin-bottom: 680px;
+  top: 0;
   font-family: "Bookman Old Style";
   color:yellow;
   position: absolute;
@@ -56,7 +48,7 @@ body {
   }
 }
 .titulo1 {
-  margin-bottom: 10px;
+  margin-top: 600px;
   font-family: "Bookman Old Style";
   color:yellow;
   position: absolute;
