@@ -3,8 +3,8 @@
 }
 .ballon{
     display: inline-block;
-    width: 58px;
-    height: 68px;
+    width: 48px;
+    height: 58px;
     border-radius: 80%;
     position: relative;
     box-shadow: inset -10px -10px 0, rgb(0,0,0,0.07);
