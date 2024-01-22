@@ -38,7 +38,7 @@ body {
 
 }
 .titulo {
-  top: 0;
+  margin-bottom: 680px;
   font-family: "Bookman Old Style";
   color:yellow;
   position: absolute;
@@ -56,7 +56,7 @@ body {
   }
 }
 .titulo1 {
-  top: 600px;
+  margin-bottom: 10px;
   font-family: "Bookman Old Style";
   color:yellow;
   position: absolute;
