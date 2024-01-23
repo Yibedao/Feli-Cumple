@@ -144,12 +144,12 @@ h1 sub{
 /* Contenido */
 #titles{
   position: absolute;
-  width: 20em;
+  width: 19.5em;
   height: 45em;
   bottom: 0;
   margin-left: 0;
   margin-right:0;
-  font-size: 130%;
+  font-size: 128%;
   text-align: justify;
   overflow: hidden;
   -webkit-transform-origin: 50% 100%;
