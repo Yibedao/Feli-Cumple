@@ -148,7 +148,7 @@ h1 sub{
   height: 45em;
   bottom: 0;
   margin-left: 0;
-  margin-right:0;
+  margin-right:1px;
   font-size: 130%;
   text-align: justify;
   overflow: hidden;
