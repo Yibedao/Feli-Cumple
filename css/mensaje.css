@@ -144,12 +144,12 @@ h1 sub{
 /* Contenido */
 #titles{
   position: absolute;
-  width: 19em;
+  width: 20em;
   height: 45em;
   bottom: 0;
   margin-left: 0;
   margin-right:auto;
-  font-size: 135%;
+  font-size: 130%;
   text-align: justify;
   overflow: hidden;
   -webkit-transform-origin: 50% 100%;
@@ -198,11 +198,11 @@ h1 sub{
   top: 100%;
   width: fit-content;
   margin:10px;
-  -webkit-animation: scroll 270s linear 7.5s infinite;
-  -moz-animation: scroll 270s linear 7.5s infinite;
-  -ms-animation: scroll 270s linear 7.5s infinite;
-  -o-animation: scroll 270s linear 7.5s infinite;
-  animation: scroll 270s linear 7.5s infinite;
+  -webkit-animation: scroll 300s linear 7.5s infinite;
+  -moz-animation: scroll 300s linear 7.5s infinite;
+  -ms-animation: scroll 300s linear 7.5s infinite;
+  -o-animation: scroll 300s linear 7.5s infinite;
+  animation: scroll 300s linear 7.5s infinite;
 }
 /* animation */
 @-webkit-keyframes scroll {
