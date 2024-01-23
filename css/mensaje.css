@@ -148,7 +148,7 @@ h1 sub{
   height: 45em;
   bottom: 0;
   margin-left: 0;
-  margin-right:2px;
+  margin-right:0;
   font-size: 130%;
   text-align: justify;
   overflow: hidden;
@@ -198,11 +198,11 @@ h1 sub{
   top: 100%;
   width: fit-content;
   margin:10px;
-  -webkit-animation: scroll 700s linear 7.5s infinite;
-  -moz-animation: scroll 700s linear 7.5s infinite;
-  -ms-animation: scroll 700s linear 7.5s infinite;
-  -o-animation: scroll 700s linear 7.5s infinite;
-  animation: scroll 700s linear 7.5s infinite;
+  -webkit-animation: scroll 300s linear 7.5s infinite;
+  -moz-animation: scroll 300s linear 7.5s infinite;
+  -ms-animation: scroll 300s linear 7.5s infinite;
+  -o-animation: scroll 300s linear 7.5s infinite;
+  animation: scroll 300s linear 7.5s infinite;
 }
 /* animation */
 @-webkit-keyframes scroll {
