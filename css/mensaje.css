@@ -97,11 +97,11 @@ h1{
   text-shadow: -2px -2px 0 #ff6, 2px -2px 0 #ff6, -2px 2px 0 #ff6, 2px 2px 0 #ff6;
   opacity: 0;
   z-index: 1;
-  -webkit-animation: logo 4s ease-out 3.8s;
-  -moz-animation: logo 4s ease-out 3.8s;
-  -ms-animation: logo 4s ease-out 3.8s;
-  -o-animation: logo 4s ease-out 3.8s;
-  animation: logo 4s ease-out 3.8s;
+  -webkit-animation: logo 4s ease-out 3.5s;
+  -moz-animation: logo 4s ease-out 3.5s;
+  -ms-animation: logo 4s ease-out 3.5s;
+  -o-animation: logo 4s ease-out 3.5s;
+  animation: logo 4s ease-out 3.5s;
 }
 
 h1 sub{
@@ -198,11 +198,11 @@ h1 sub{
   top: 100%;
   width: fit-content;
   margin:10px;
-  -webkit-animation: scroll 250s linear 5s infinite;
-  -moz-animation: scroll 250s linear 5s infinite;
-  -ms-animation: scroll 250s linear 5s infinite;
-  -o-animation: scroll 250s linear 5s infinite;
-  animation: scroll 250s linear 5s infinite;
+  -webkit-animation: scroll 150s linear 5s infinite;
+  -moz-animation: scroll 150s linear 5s infinite;
+  -ms-animation: scroll 150s linear 5s infinite;
+  -o-animation: scroll 150s linear 5s infinite;
+  animation: scroll 150s linear 5s infinite;
 }
 /* animation */
 @-webkit-keyframes scroll {
